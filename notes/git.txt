@@ -1,0 +1,9 @@
+what is Git?
+Git is free,open source distributed version control system 
+
+What git can do?
+It keeps Track of Projects and files 
+
+Git command 
+git init - initialize git project 
+

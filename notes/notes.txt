@@ -1,0 +1,17 @@
+Current Working is also known as Root directive 
+Root directive is also known as Root Path 
+
+Access Root path / or Current path 
+"./"
+
+Access Sub Folder of Root directive
+"./js/myScript.js"
+
+"./assets/data/mydata.json"
+
+If you are in css folder and want to select myData.json
+"./assets/data/mydata.json"
+
+If you are in folder and want to select mySript.js
+
+"../../js/myScript.js"  
