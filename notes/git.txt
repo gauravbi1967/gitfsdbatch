@@ -7,3 +7,9 @@ It keeps Track of Projects and files
 Git command 
 git init - initialize git project 
 
+1) git init - initialize git project 
+2) git add file_name (it will add single file ata time)
+3) git add . ( this will add all the files and folder into git repository)
+4) git status ( this will check if anything edits saved or not )
+4) git commit -m "first commit from gaurav" 
+    
