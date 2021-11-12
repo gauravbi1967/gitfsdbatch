@@ -1,0 +1,47 @@
+What is javascript? 
+-> JS is a scripting language 
+
+What is Scripting ?
+-> It is a set of instruction 
+-> This instruction are executed / run by system 
+
+Why we use javascript?
+  -> it is easy to learn 
+  -> Easy and simple to implement
+  -> It is used to build web and mobile appli ,
+  -> It is cross platform 
+
+javascript HISTORY ?
+  -> javascript is firstly from EchmaSript (ES)
+
+Curent version of js is ? 
+  -> ES 6 
+
+How to use javascript ?
+  -> JS can run on mobile web Browser ,
+     ( Google chrome , Mozilla FireFox , Safari, Opera , etc.)
+  -> These web Browser Having JS Runtime Engine to convert JS code to Machine Code 
+  -> JS code can be run on command Line/Command prompt using node.js
+  -> Put JS code in HTML - Head Tag or before clossing the body tag using script tag 
+
+  ***** NODE Js is a Runtime Environment for javascript *****
+
+Where Import and Export ?
+ -> 1) Internal javascript
+       Add JS code in head tag or Before the closing tag using <Script> tag.
+       Ex:
+           1) <head>
+                <Script>
+                  // Js Code 
+                </Script>
+              </head>
+
+           2)<Body>
+               <Script>
+                 // Js code 
+               </Script>
+             </Body> 
+             
+    2) External javascript
+        - Write all the JS code Into the new File and Save the File with .Js Extemsion 
+        - After Writing Js code into External File input it in Head Tag or before Closing Body Tag. 
