@@ -1,0 +1,28 @@
+git clone https://github.com/meanacademy/bi-nov-batch.git 
+
+Javascript Outputs:
+     1) document.write()
+     2) console.log()
+     3) alert()
+     4) innerHTML
+
+WHAT is document ? ?
+ -> Document is nothing but Our WEBPAGE !! 
+======================================================================================
+                         **** COMMENTS ****
+1)What is Comments ? 
+
+      Single Line Comments
+       // comment 
+      Multi Line Comments
+      /* Comments */
+
+Why Comments is used ?  
+ ---- >  comment makes an understanding about what exactly we have written 
+
+========================================================================================
+                       VARIABLE AND CONSTRANSTS
+
+1)  What Is Variable and Constrants ?
+   -- Variable means anything that can vary. In JavaScript,
+        a variable stores the data value that can be changed later on.
