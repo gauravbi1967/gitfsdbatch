@@ -1,0 +1,61 @@
+Javascript operator :- 
+                      i) what is Javascript operator ?
+                    --> Operators are used to perform specific mathematical and logical 
+                        computations on operands.
+                    --> In JavaScript operators are used for compare values, perform 
+                        arithmetic operations etc.
+                        EX:- addition of two number 
+                        ex:- 10 + 20 =30
+
+1) typeof ( operator )
+  --> typeof will always return the typeof particular value 
+  
+  --> It return the datatype of varaible  
+========================================================================================
+
+2) arithmetic (operator)
+ --> arithmetic operators take numerical values as their operands 
+    and return a single numerical value. 
+
+ ** There are four standard arithmetic operators,
+    1) addition (+),
+    2) subtraction (-),
+    3) multiplication (*),
+    4) division (/)
+    5) modulus %
+    6) ++ increment (+1) 
+    7) -- decrement (-1)
+
+=======================================================================================
+
+3) assingment operator 
+  --> assingment operator are the operator where we are simply assigning a value 
+      to the varaible 
+    
+    1) = ( operator )  assign a new value to a variable 
+    
+    2) += (operator ) it will assign a value with increment of 1. 
+
+    3) -= (operator)  it will assign a value with decrement 1.
+
+    4) *= (operator) it will multiply with given varaible value.
+
+    5) /= (operator) it will devide with given variable value .
+
+    6) %= (operator) it will modulus of no (varaible value)
+
+    7) **= (operator) it will exponential with a given value. 
+
+=========================================================================================
+
+4) Comparison operator 
+  --> are like something that can be campare for two operands 
+
+  1) == (operator) check the two value if they are same or equal 
+  2) === check the two values as well as there datatype 
+  3) != check the two values if they are not same or equal
+  4) !== check the two values as well as there data type are not equal 
+  5) > it checks greator number  
+  6) >= it checks weather number the number is greator or equal to 
+  7) < it checks smaller number 
+  8) <= it checks weather number the number is smaller or equal to 
