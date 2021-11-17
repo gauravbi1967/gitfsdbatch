@@ -20,3 +20,28 @@ console.log('123');
 console.log('true');
 console.log(gaurav);
 console.warn('warning');
+
+// variable by var keyword 
+   var username='Gaurav Sharma';
+   console.log(username);
+ 
+// Let Keyword 
+   let city = 'pune';
+   console.log(city);
+                          
+// Const Keyword 
+   const company_name = "Board Infinity"; 
+   console.log(company_name); 
+
+   let address ='pune'; // string 
+   let age = 30; // number
+   let isMarried = false; // boolean 
+   let hobbies = ['sketch','draw']; // array 
+   let dob ; // undefined 
+   let email = null; // null  
+   let getName = function () { }; // Function
+   let user ={ 
+       firstname: "makesh ",
+       lastname: "gaurav",
+       address: "bilaspur",
+   };

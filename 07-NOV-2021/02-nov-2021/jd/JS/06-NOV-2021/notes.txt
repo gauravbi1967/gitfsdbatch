@@ -2,7 +2,11 @@ git clone https://github.com/meanacademy/bi-nov-batch.git
 
 Javascript Outputs:
      1) document.write()
-     2) console.log()
+     2) console.log()  
+        i) what is console.log()?
+          => console.log() is just simply trying to suggest that we are making a log of
+             perticular data. 
+             
      3) alert()
      4) innerHTML
 
@@ -24,5 +28,75 @@ Why Comments is used ?
                        VARIABLE AND CONSTRANSTS
 
 1)  What Is Variable and Constrants ?
-   -- Variable means anything that can vary. In JavaScript,
+   --> Variable means anything that can vary. In JavaScript,
         a variable stores the data value that can be changed later on.
+
+2) Variable Definition ?
+   --> var name; ( we have declared a variable name which is simply storing / containing value )
+
+3) Variable initialization ?
+   --> name = "gaurav";
+   
+   SYNTAX :- 
+             var variable_name;
+             or 
+             var variable_name=value;
+
+   QUESTION :- Can we create n number of  variable in single line ?
+               --> Yes , we can 
+      Solution :- var Firstname,lastname,address ;
+
+4) variable by 
+
+       i) Var keyword ?
+          Ex - var username = 'gaurav sharma';
+               console.log(username);
+
+       ii) "let keyword";
+          --> it is introduced in ES6 (EchmaScript 6)
+          --> EchmaScript is also equal to Javascript 
+          --> It is used for creating Variables 
+             
+             Syntax :- 
+                        Let variable_name;
+                        or 
+                        Let variable_name = value ;
+
+        iii) "const keyword" 
+            --> Ex = const pi =3.14;
+                     const onemb =1024;
+                     const company_name = "Board Infinity";
+
+=============================================================================================
+                         **** Interview Question ****
+       
+       1) Difference Between var , Let , const ? 
+
+=> Parameters         var                   Let                       const 
+   Scope          global                    Local or Block            global
+
+   Assignment     reassign value -true      reassign value- true      can not 
+   
+   declaration    Same variable name Can    we can not                we can not 
+                   be used for declaration
+
+==============================================================================================
+                    ******** Data Types ********
+   Premetive Data type 
+    -> string 
+    -> number 
+    -> boolean
+    -> undefined
+    -> null 
+
+   ??? Interview Question ??? 
+      Difference Between null and undefined ??
+      --> ( null ) is Assigned value but nothing 
+      --> ( undefined ) means a variable has been declared but not defined 
+      --> in Javascript ( null ) is a type of object 
+      --> undefined is a type of undefined 
+        
+   Non-Premetive data type (Dynamic)
+    -> array 
+    -> function
+    -> object     
