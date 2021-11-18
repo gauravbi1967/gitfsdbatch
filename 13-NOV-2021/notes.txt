@@ -1,0 +1,63 @@
+1) JavaScript string
+--> JS string is a zero or more character written within quotes (' or ") . 
+
+Declaration:- 
+              let name = 'gaurav';
+                       or 
+              let name = "gaurav";
+
+              let str = '';
+              let str = "";
+
+ * String is a DataType in JavaScript where we can declare " a variable for string Value " 
+ ==========================================================================================
+ 
+ ** Single quotes and Double quotes in a ( SRTING ) **
+  
+  1) we can use single quotes inside of double quotes.
+  2) we can use double quotes inside of single quotes.
+
+  Ex) let str1 = "It's so hot ";
+      console.log(str1) 
+      ------------------------
+      OUTPUT :- It's so hot 
+
+  Ex) let str2 = 'my name is "amit"';
+      console.log(str2) 
+      -------------------------
+      OUTPUT :- mu name is amit
+================================================================================================
+
+ ** ESCAPE character **
+
+   * What is ESCAPE character ??? 
+   ---> Escape characters are characters that can be
+         interpreted in some alternate way then what we intended to.
+
+   1) \' -> Print single quotes
+   2) \" -> Print Double quotes
+   3) \\ -> Print Backslash
+===============================================================================
+
+** String Literals **
+ 
+ * What is String Literals ???
+ --> A string literal contains a sequence of characters or Escape
+      sequences enclosed in double quotation mark symbols. 
+
+      ** ` ` ** 
+    Ex 1) let str1 = `My name is gaurav `; 
+          console.log(str1);
+
+          OUTPUT = My name is gaurav
+    
+==================================================================================
+
+** String Property **
+length - returns the length of a string 
+
+** Methods for JS String ??? ** 
+ 1) indexof('str') -> It returns an indexof first occurance of specified text / string .
+
+ 
+
