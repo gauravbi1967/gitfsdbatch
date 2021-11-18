@@ -15,10 +15,11 @@ WHAT is document ? ?
 ======================================================================================
                          **** COMMENTS ****
 1)What is Comments ? 
+  --> it is used to write notes in your code 
 
-      Single Line Comments
+     1)  Single Line Comments
        // comment 
-      Multi Line Comments
+     2)  Multi Line Comments
       /* Comments */
 
 Why Comments is used ?  
@@ -51,8 +52,11 @@ Why Comments is used ?
        i) Var keyword ?
           Ex - var username = 'gaurav sharma';
                console.log(username);
-
-       ii) "let keyword";
+         
+       ** what is the use of let keyword ?????
+         --> let allows you to declare variables that are limited to the Scope
+              of a block statement, or expression on which it is used  
+       ii)"let keyword";
           --> it is introduced in ES6 (EchmaScript 6)
           --> EchmaScript is also equal to Javascript 
           --> It is used for creating Variables 
@@ -78,7 +82,7 @@ Why Comments is used ?
    Assignment     reassign value -true      reassign value- true      can not 
    
    declaration    Same variable name Can    we can not                we can not 
-                   be used for declaration
+                   be used for declaration      
 
 ==============================================================================================
                     ******** Data Types ********
