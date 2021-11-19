@@ -1,7 +1,7 @@
-Javascript operator :- 
+  Javascript operator :- 
                       i) what is Javascript operator ?
                     --> Operators are used to perform specific mathematical and logical 
-                        computations on operands.
+                         computations on operands.
                     --> In JavaScript operators are used for compare values, perform 
                         arithmetic operations etc.
                         EX:- addition of two number 

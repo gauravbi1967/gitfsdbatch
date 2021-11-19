@@ -90,6 +90,8 @@ console.log(address2.search("bilaspur"));
        console.log(trimmedStr.length);
     /* trimming is nothing but the trimming the particular  white spaces for the 
        beginning and ending of a string itself */
+     
+  //  =============================================================================
 
  //  **  how can we extract the character from the method ??????
  
@@ -101,3 +103,12 @@ console.log(address2.search("bilaspur"));
     
  // ** property Access 
        console.log(address2[3]);
+
+// ==================================================================================
+
+  // Transform string
+  console.log(address2.toUpperCase());
+  console.log(address2.toLowerCase());
+
+  // to convert string to array convertion 
+  // 
